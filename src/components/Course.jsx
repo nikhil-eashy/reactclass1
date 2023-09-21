@@ -36,6 +36,7 @@ const Course = () => {
             console.log(du);
           }}
         ></input>
+        
         Fee{" "}
         <input
           type="number"
